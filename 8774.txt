@@ -621,10 +621,10 @@ _TO THE SMALL CELANDINE_
 
   Ere a leaf is on a bush,
   In the time before the Thrush
-  Has a thought about it's nest,
+  Has a thought about its nest,
   Thou wilt come with half a call,
   Spreading out thy glossy breast
-  Like a careless Prodigal;                                20
+  Like a careless Prodigal;                                30
   Telling tales about the sun,
   When we've little warmth, or none.
 
@@ -1074,7 +1074,7 @@ THE KITTEN AND THE FALLING LEAVES.
   In his wavering parachute.
   --But the Kitten, how she starts,
   Crouches, stretches, paws, and darts;
-  First at one and then it's fellow
+  First at one and then its fellow
   Just as light and just as yellow;                          20
   There are many now--now one--
   Now they stop; and there are none--
@@ -1134,7 +1134,7 @@ THE KITTEN AND THE FALLING LEAVES.
   What is now become of Him?
   Lambs, that through the mountains went
   Frisking, bleating merriment,
-  When the year was in it's prime,
+  When the year was in its prime,
   They are sober'd by this time.
   If you look to vale or hill,                               80
   If you listen, all is still,
@@ -2142,7 +2142,7 @@ _Written in very early Youth_.
 
   Earth has not any thing to shew more fair:
   Dull would he be of soul who could pass by
-  A sight so touching in it's majesty:
+  A sight so touching in its majesty:
   This City now doth like a garment wear
   The beauty of the morning; silent, bare,
   Ships, towers, domes, theatres, and temples lie
